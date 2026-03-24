@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋, I'm Pablo Nogueira.</h1>
 <h3 align="center">A backend developer from Brazil.</h3>
 
-- 🔭 I’m currently working on **learning and tech projects.**
+- 🔭 Currently working on **learning and tech projects.**
 
-- 🌱 I’m currently learning **C.**
+- 🌱 Currently learning **C.**
 
-- 👯 I’m looking to collaborate on **mid-level projects.**
+- 👯 Looking to collaborate on **mid-level projects.**
 
-- 🤝 I’m looking for help with **C++.**
+- 🤝 Looking for help with **C++.**
 
 - 📫 How to reach me **ptn@cesar.school.**
 
