@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Pablo Nogueira.</h1>
-<h3 align="center">A backend developer from Brazil.</h3>
+<h3 align="center">A back-end developer from Brazil, in Brazil.</h3>
 
 - 🔭 Currently working on **learning and tech projects.**
 
