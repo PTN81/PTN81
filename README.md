@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/32488003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32488003" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/pablo-tamborini-nogueira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="32488003" height="30" width="40" />
+<a href="https://www.linkedin.com/in/pablo-tamborini-nogueira/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="32488003" height="30" width="40" />
 </a>
 </p>
 
