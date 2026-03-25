@@ -1,21 +1,24 @@
-<h1 align="center">Hi👋, I'm Pablo Nogueira.</h1>
+<h1 align="center">Hi, I'm Pablo Nogueira.</h1>
 <h3 align="center">A back-end developer from Brazil, in Brazil.</h3>
 
-- 🔭 Currently working on **learning and tech projects.**
+- 🖥📚 I'm currently studying at CESAR School.
 
-- 🌱 Currently learning **C.**
+- 🌱 I'm currently learning **C.**
 
-- 👯 Looking to collaborate on **mid-level projects.**
+- 👯 I'm looking to collaborate on **mid-level projects.**
 
 - 🤝 Looking for help with **C++.**
 
 - 📫 How to reach me **ptn@cesar.school.**
 
-- 👨‍💻 All of my projects are available at **https://github.com/PTN81**
+- 👨‍💻 All of my projects are available at **github.com/PTN81**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/32488003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32488003" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32488003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32488003" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/pablo-tamborini-nogueira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="32488003" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
